@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+.main{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    height:91vh;
+    
+    padding: 1vh;
+
+    
+    
+}
+
+.centerboxParent{
+    background-color: black;
+    color: white;
+    border:.4vh solid royalblue;
+    padding:0vh 2vh 0vh 2vh;
+    border-radius: .5vh;
+    height: 90vh;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.centerboxParent h2{
+    font-size: 6vh;
+}
+.centerboxParent span{
+    color: red;
+
+}
+.centerboxParent div{
+    display: flex;
+    width: 20vh;
+    justify-content: space-between;
+}
+
+.centerboxParent div button{
+    width: 7vh;
+    height: 7vh;
+    font-size: 3vh;
+    font-weight: bolder;
+}
+
+.yesbtn{
+    background-color:#02db2e;
+}
+.nobtn{
+    background-color: red;
+}
+
+.t{
+    visibility: hidden;
+}
