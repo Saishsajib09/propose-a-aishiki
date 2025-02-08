@@ -1,4 +1,4 @@
-# 💌 Propose a Girl
+# 💌 Propose a aishiki 
 
 This fun project features a playful webpage where a user is asked "Do you love me?" with interactive "Yes" and "No" buttons. The "No" button playfully moves to a random position on the screen when clicked, while the "Yes" button displays a loving message when clicked. This project is created using HTML, CSS, JavaScript, and DOM manipulation.
 
@@ -14,7 +14,7 @@ This fun project features a playful webpage where a user is asked "Do you love m
 
 ## 🎥 Demo
 
-Explore the Propose a Girl webpage: [Propose a Girl](https://ayushkumardevs.github.io/propose-a-girl/)
+Explore the Propose a Girl webpage: [Propose a Girl](/)
 
 ## 🤝 Contributing
 
@@ -22,6 +22,6 @@ Contributions are welcome! If you have ideas for improvements, please fork the r
 
 ## 📬 Contact
 
-Ayush - ayushkumar2005sk@gmail.com
+om
 
-Project Link: [GitHub Repository](https://github.com/AyushKumarDEVs/propose-a-girl)
+Project Link: [GitHub Repository]()
